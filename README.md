@@ -8,7 +8,7 @@
   
 -  meu nome é antonio abner, tenho 17 anos
 
--  estudante do terceiro período de informática no IFCE. (campus fortaleza)
+-  estudante no terceiro período de informática no IFCE. (campus fortaleza)
   
 -  aprendendo programação a cerca de um ano.
 
