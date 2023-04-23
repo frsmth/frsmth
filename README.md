@@ -2,7 +2,7 @@
 <img src = "https://64.media.tumblr.com/3cf391ca6839e7126a3bea2c7f217301/tumblr_pwgbi0S0Dm1vy2tgqo10_1280.jpg">
 <h1 align="center"> ╰┈➤  um pouco sobre mim: </h1>
    <h3 align="center">
-┏━°⌜ 赤い糸 ⌟°━┓
+┏━°⌜ 長く短い祭 ⌟°━┓
  
  <h4 align = center>
   
@@ -20,7 +20,7 @@
   
 -  UID: 652051969 (pode chamar caso saiba o que fazer com isso)
   <h3 align = center>
-      ┗━°⌜ 赤い糸 ⌟°━┛
+      ┗━°⌜ 長く短い祭 ⌟°━┛
   <h3 align = center>
 
    
