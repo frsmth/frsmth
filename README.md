@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<img src = "https://media.discordapp.net/attachments/795515503773745152/1083932596733481040/98050f12986b5ff520c7c20d844250d8.jpg">
+<div>
 <!--
 **frsmth/frsmth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
