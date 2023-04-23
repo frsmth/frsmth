@@ -24,7 +24,7 @@
   <h3 align = center>
 <div style="display: inline_block"><br>
    <h3 align="center">
-『••◈••』 estudando as seguintes linguagens:
+<h1 align="center">『••◈••』 estudando as seguintes linguagens: </h1>
   <div style="display: inline_block"><br>
  <link rel="stylesheet" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
