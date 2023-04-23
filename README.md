@@ -1,4 +1,4 @@
-<img src = "https://media.discordapp.net/attachments/795515503773745152/1083932596733481040/98050f12986b5ff520c7c20d844250d8.jpg">
+<img src = "https://media.discordapp.net/attachments/893698293488570388/1099485216810217594/output_1.png">
 <div>
 <!--
 **frsmth/frsmth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
