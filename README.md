@@ -1,4 +1,4 @@
-### <h1 align="center"> : ̗̀➛ eai. seja bem vindo ao meu perfil :] </h1>
+### <h1 align="center"> └── ⋆ olá. seja bem vindo ao meu perfil ⋆ ──┘ </h1>
 <img src = "https://64.media.tumblr.com/3cf391ca6839e7126a3bea2c7f217301/tumblr_pwgbi0S0Dm1vy2tgqo10_1280.jpg">
 <h1 align="center"> ╰┈➤  um pouco sobre mim: </h1>
    <h3 align="center">
@@ -18,7 +18,7 @@
 
 -  email instituicional: antonio.abner08@aluno.ifce.edu.br
   
--  UID: 652051969 
+-  UID: 652051969 (pode chamar caso saiba o que fazer com isso)
   <h3 align = center>
       ┗━°⌜ 赤い糸 ⌟°━┛
   <h3 align = center>
