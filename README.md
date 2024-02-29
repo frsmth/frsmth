@@ -6,9 +6,9 @@
  
  <h4 align = center>
   
--  meu nome é antonio abner, tenho 17 anos
+-  meu nome é antonio abner, tenho 18 anos
 
--  estudante no terceiro período de informática no IFCE. (campus fortaleza)
+-  estudante no quinto período de informática no IFCE. (campus fortaleza)
   
 -  aprendendo programação a cerca de um ano.
 
